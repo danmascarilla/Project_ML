@@ -6,9 +6,9 @@
 
 ## Componentes del Proyecto
 
-Jonatan Luzón
-Ivan Montero
-Daniel Mascarilla
+- Jonatan Luzón
+- Ivan Montero
+- Daniel Mascarilla
 
 ## 📖 1. Objetivo del Proyecto
 Este proyecto de Machine Learning tiene como objetivo clasificar y predecir el nivel de **satisfacción de los pasajeros** de una aerolínea basándose en su experiencia de vuelo. 
