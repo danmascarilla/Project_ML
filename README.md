@@ -4,6 +4,12 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completado-success?style=for-the-badge)
 
+## Componentes del Proyecto
+
+Jonatan Luzón
+Ivan Montero
+Daniel Mascarilla
+
 ## 📖 1. Objetivo del Proyecto
 Este proyecto de Machine Learning tiene como objetivo clasificar y predecir el nivel de **satisfacción de los pasajeros** de una aerolínea basándose en su experiencia de vuelo. 
 
