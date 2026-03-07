@@ -71,3 +71,8 @@ El modelo determinó que los factores críticos para la satisfacción son:
 ├── notebooks/
 │   └── test.ipynb           # Notebook principal con EDA y Modelado
 └── README.md                # Documentación del proyecto
+```
+
+### 📻 6. Enlace al video
+
+https://drive.google.com/file/d/1ac4XR-lftOEXUixvRufOensnFLW99cd4/view?usp=drive_link
